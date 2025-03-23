@@ -36,9 +36,6 @@ Every time you type a website URL in your browser, a request is sent to the serv
 ➡️ **Client (Browser)** → Sends a Request → **Server**  
 ⬅️ **Server** → Processes the Request → Sends a Response → **Client (Browser)**  
 
-📌 **Illustration:**  
-_(Adding an image here would be helpful! You can create a simple request-response diagram.)_  
-
 ---
 
 ## 💡 **Pro Tip:**  
