@@ -5,6 +5,16 @@
 
 > "The journey of a thousand miles begins with a single step." – Lao Tzu
 
+---
+
+## 📋 **Course Outline**  
+
+| 📌 Lecture No. | 📝 Topic | 🚦 Status | 🔗 Link |  
+|--------------|-------------------------------|----------|---------|  
+| 01 | Introduction to Website Development | ✅ Completed | [note.md](./Day-01/note.md) |  
+| 02 | How the Web Works | ✅ Completed | [note.md](./Day-02/note.md) |  
+| 03 | Setting Up Your Development Environment | ✅ Completed | [note.md](./Day-03/note.md) |  
+| 04 | Understanding HTML, CSS, and JavaScript | ✅ Completed | [note.md](./Day-04/note.md) |  
 
 ---
 
@@ -13,6 +23,12 @@
 ```
 📦 web-dev-journey
  ├── 📁 Day-01
+ ├── ├── 📄 note.md
+ ├── 📁 Day-02
+ ├── ├── 📄 note.md
+ ├── 📁 Day-03
+ ├── ├── 📄 note.md
+ ├── 📁 Day-04
  ├── ├── 📄 note.md
  ├── 📄 LICENSE
  ├── 📄 README.md (You're here!)
