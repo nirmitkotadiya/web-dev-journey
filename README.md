@@ -15,6 +15,17 @@
 | 02 | How the Web Works | ✅ Completed | [note.md](./Day-02/note.md) |  
 | 03 | Setting Up Your Development Environment | ✅ Completed | [note.md](./Day-03/note.md) |  
 | 04 | Understanding HTML, CSS, and JavaScript | ✅ Completed | [note.md](./Day-04/note.md) |  
+| 05 | First Web Page | ✅ Completed | [note.md](./Day-05/note.md) |
+| 06 | HTML Structures | ✅ Completed | [note.md](./Day-06/note.md) |
+| 07 | HTML Text | ✅ Completed | [note.md](./Day-07/note.md) |
+| 08 | HTML List | ✅ Completed | [note.md](./Day-08/note.md) |
+| 09 | Hyperlinks | ✅ Completed | [note.md](./Day-09/note.md) |
+| 10 | ID Attributes | ✅ Completed | [note.md](./Day-10/note.md) |
+| 11 | Self Closing Tags | ✅ Completed | [note.md](./Day-11/note.md) |
+| 12 | Image Tag | ✅ Completed | [note.md](./Day-12/note.md) |
+| 13 | HTML Forms | ✅ Completed | [note.md](./Day-13/note.md) |
+| 14 | Form Validation | ✅ Completed | [note.md](./Day-14/note.md) |
+| 15 | HTML Drop-down | ✅ Completed | [note.md](./Day-15/note.md) |
 
 ---
 
@@ -29,6 +40,41 @@
  ├── 📁 Day-03
  ├── ├── 📄 note.md
  ├── 📁 Day-04
+ ├── ├── 📄 note.md
+ ├── 📁 Day-05
+ ├── ├── 📄 first.html
+ ├── ├── 📄 note.md
+ ├── 📁 Day-06
+ ├── ├── 📄 note.md
+ ├── ├── 📄 second.html
+ ├── 📁 Day-07
+ ├── ├── 📄 note.md
+ ├── ├── 📄 third.html
+ ├── 📁 Day-08
+ ├── ├── 📄 forth.html
+ ├── ├── 📄 note.md
+ ├── 📁 Day-09
+ ├── ├── 📄 link.html
+ ├── ├── 📄 note.md
+ ├── 📁 Day-10
+ ├── ├── 📄 idattr.html
+ ├── ├── 📄 note.md
+ ├── 📁 Day-11
+ ├── ├── 📄 newfile.html
+ ├── ├── 📄 note.md
+ ├── 📁 Day-12
+ ├── ├── 📄 newfile.html
+ ├── ├── 📄 note.md
+ ├── 📁 Day-13
+ ├── ├── 📄 form.html
+ ├── ├── 📄 note.md
+ ├── ├── 📄 task.html
+ ├── 📁 Day-14
+ ├── ├── 📄 newfile.html
+ ├── ├── 📄 note.md
+ ├── ├── 📄 task.html
+ ├── 📁 Day-15
+ ├── ├── 📄 newfile.html
  ├── ├── 📄 note.md
  ├── 📄 LICENSE
  ├── 📄 README.md (You're here!)
