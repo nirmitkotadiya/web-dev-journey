@@ -26,6 +26,11 @@
 | 13 | HTML Forms | ✅ Completed | [note.md](./Day-13/note.md) |
 | 14 | Form Validation | ✅ Completed | [note.md](./Day-14/note.md) |
 | 15 | HTML Drop-down | ✅ Completed | [note.md](./Day-15/note.md) |
+| 16 | Login and Register Form | ✅ Completed | [note.md](./Day-16/note.md) |
+| 17 | Introduction to CSS | ✅ Completed | [note.md](./Day-17/note.md) |
+| 18 | Block & Inline Elements | ✅ Completed | [note.md](./Day-18/note.md) |
+| 19 | Development or Developer or Dev Tools | ✅ Completed | [note.md](./Day-19/note.md) |
+| 20 | Layout Design | ✅ Completed | [note.md](./Day-20/note.md) |
 
 ---
 
@@ -75,6 +80,21 @@
  ├── ├── 📄 task.html
  ├── 📁 Day-15
  ├── ├── 📄 newfile.html
+ ├── ├── 📄 note.md
+ ├── 📁 Day-16
+ ├── ├── 📄 login.html
+ ├── ├── 📄 note.md
+ ├── ├── 📄 register.html
+ ├── 📁 Day-17
+ ├── ├── 📄 index.html
+ ├── ├── 📄 note.md
+ ├── 📁 Day-18
+ ├── ├── 📄 index.html
+ ├── ├── 📄 note.md
+ ├── 📁 Day-19
+ ├── ├── 📄 note.md
+ ├── 📁 Day-20
+ ├── ├── 📄 index.html
  ├── ├── 📄 note.md
  ├── 📄 LICENSE
  ├── 📄 README.md (You're here!)
