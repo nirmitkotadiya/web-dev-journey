@@ -1,0 +1,24 @@
+h1{
+    font-weight: 100;
+    text-decoration: line-through dotted red;
+    font-style: italic;
+}
+
+h2{
+    text-decoration: overline;
+    text-transform: uppercase;
+}
+
+h3{
+    text-decoration: underline  ;
+    text-transform: capitalize;
+}
+
+h4{
+    text-decoration: none;
+    text-transform: lowercase;
+}
+
+a{
+    text-decoration: none;
+}
