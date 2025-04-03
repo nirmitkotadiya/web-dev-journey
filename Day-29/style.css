@@ -1,0 +1,16 @@
+#red-text {
+    color: red;
+}
+
+.green-text {
+    color: green;
+}
+
+.heading-1,
+p {
+    color: blue;
+}
+
+.span-text {
+    color: yellow;
+}
