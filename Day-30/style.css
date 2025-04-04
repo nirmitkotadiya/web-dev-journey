@@ -1,0 +1,24 @@
+button {
+    background-color: red;
+    color: white;
+}
+
+button:hover {
+    background-color: blue;
+}
+
+button:active {
+    background-color: yellow;
+}
+
+li:first-child {
+    background-color: red;
+}
+
+li:last-child {
+    background-color: blue;
+}
+
+li:nth-child(2n-1) {
+    background-color: green;
+} 
