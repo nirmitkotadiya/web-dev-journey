@@ -1,0 +1,23 @@
+body,
+html {
+    scrollbar-color: red orange;
+    scrollbar-width: thin;
+}
+
+p::first-letter {
+    color: red;
+    font-size: 2rem;
+}
+
+p::first-line {
+    color: blue;
+    font-size: 2rem;
+}
+
+h1::after {
+    content: '';
+    display: inline-block;
+    height: 20px;
+    width: 20px;
+    background-color: red;
+}
