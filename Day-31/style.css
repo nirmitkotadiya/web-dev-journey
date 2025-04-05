@@ -1,0 +1,26 @@
+p {
+    color: red;
+}
+
+p {
+    color: green;
+}
+
+#para {
+    color: blue;
+    /* font-family: 'Roboto', sans-serif; */
+}
+
+/* h1, h2 {
+    font-family: 'Roboto', sans-serif;
+} */
+
+body {
+    font-family: 'Roboto', sans-serif;
+    color: green;
+    text-align: center;
+}
+
+span{
+    background-color: yellow;
+}
