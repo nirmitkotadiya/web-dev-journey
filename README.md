@@ -31,6 +31,19 @@
 | 18 | Block & Inline Elements | ✅ Completed | [note.md](./Day-18/note.md) |
 | 19 | Development or Developer or Dev Tools | ✅ Completed | [note.md](./Day-19/note.md) |
 | 20 | Layout Design | ✅ Completed | [note.md](./Day-20/note.md) |
+| 21 | Ways to Add CSS | ✅ Completed | [note.md](./Day-21/note.md) |
+| 22 | Semantic HTML | ✅ Completed | [note.md](./Day-22/note.md) |
+| 23 | HTML Tables | ✅ Completed | [note.md](./Day-23/note.md) |
+| 24 | Text Styling | ✅ Completed | [note.md](./Day-24/note.md) |
+| 25 | Text Alignment / Positioning | ✅ Completed | [note.md](./Day-25/note.md) |
+| 26 | Text Size | ✅ Completed | [note.md](./Day-26/note.md) |
+| 27 | Font Family | ✅ Completed | [note.md](./Day-27/note.md) |
+| 28 | Text Color | ✅ Completed | [note.md](./Day-28/note.md) |
+| 29 | CSS Selectors | ✅ Completed | [note.md](./Day-29/note.md) |
+| 30 | Pseudo Selectors | ✅ Completed | [note.md](./Day-30/note.md) |
+| 31 | Inheritance | ✅ Completed | [note.md](./Day-31/note.md) |
+| 32 | Pseudo Elements | ✅ Completed | [note.md](./Day-32/note.md) |
+| 33 | Card Design | ✅ Completed | [note.md](./Day-33/note.md) |
 
 ---
 
@@ -96,6 +109,57 @@
  ├── 📁 Day-20
  ├── ├── 📄 index.html
  ├── ├── 📄 note.md
+ ├── 📁 Day-21
+ ├── ├── 📄 external.html
+ ├── ├── 📄 inline.html
+ ├── ├── 📄 internal.html
+ ├── ├── 📄 note.md
+ ├── ├── 📄 style.css
+ ├── 📁 Day-22
+ ├── ├── 📄 note.md
+ ├── 📁 Day-23
+ ├── ├── 📄 index.html
+ ├── ├── 📄 note.md
+ ├── 📁 Day-24
+ ├── ├── 📄 index.html
+ ├── ├── 📄 note.md
+ ├── ├── 📄 style.css
+ ├── 📁 Day-25
+ ├── ├── 📄 index.html
+ ├── ├── 📄 note.md
+ ├── ├── 📄 style.css
+ ├── 📁 Day-26
+ ├── ├── 📄 index.html
+ ├── ├── 📄 note.md
+ ├── ├── 📄 style.css
+ ├── 📁 Day-27
+ ├── ├── 📄 index.html
+ ├── ├── 📄 note.md
+ ├── ├── 📄 style.css
+ ├── 📁 Day-28
+ ├── ├── 📄 index.html
+ ├── ├── 📄 note.md
+ ├── ├── 📄 style.css
+ ├── 📁 Day-29
+ ├── ├── 📄 index.html
+ ├── ├── 📄 note.md
+ ├── ├── 📄 style.css
+ ├── 📁 Day-30
+ ├── ├── 📄 index.html
+ ├── ├── 📄 note.md
+ ├── ├── 📄 style.css
+ ├── 📁 Day-31
+ ├── ├── 📄 index.html
+ ├── ├── 📄 note.md
+ ├── ├── 📄 style.css
+ ├── 📁 Day-32
+ ├── ├── 📄 index.html
+ ├── ├── 📄 note.md
+ ├── ├── 📄 style.css
+ ├── 📁 Day-33
+ ├── ├── 📄 index.html
+ ├── ├── 📄 note.md
+ ├── ├── 📄 style.css
  ├── 📄 LICENSE
  ├── 📄 README.md (You're here!)
 ```
