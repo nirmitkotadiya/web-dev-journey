@@ -1,0 +1,21 @@
+h2 {
+    background-color: #669bbc;
+    color: #1b263b;
+}
+
+p {
+    width: 300px;
+    background-color: #fca311;
+    color: #22333b;
+}
+
+span {
+    width: 500px;
+    height: 500px;
+    background-color: #669bbc;
+    color: #44413b;
+}
+
+img {
+    width: 200px;
+}
