@@ -1,0 +1,35 @@
+.content {
+  /* border-width: 10px;
+  border-style: solid;
+  border-color: red; */
+
+  /* border: 10px solid red; */
+  /* border: 10px dotted red; */
+
+  color: #22333b;
+  padding: 10px;
+}
+
+.btn {
+  padding: 7px 12px;
+}
+
+.login {
+  border: 3px solid #669bbc;
+  border-radius: 20px;
+  background-color: #669bbc;
+  color: #003049;
+}
+
+.signup {
+  border: 3px solid #669bbc;
+  background-color: transparent;
+  color: #003049;
+}
+
+.box {
+  background: #003049 ;
+  width: 100px;
+  height: 100px;
+  border-radius: 50px;
+}
