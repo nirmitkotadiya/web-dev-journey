@@ -1,4 +1,4 @@
-## 🚀 Day 34 : Padding
+## 🚀 Day 35 : Padding
 
 Padding in CSS is the space between the content of the element and its border. It helps create breathing room around your content.
 
