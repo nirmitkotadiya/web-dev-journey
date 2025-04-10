@@ -1,0 +1,27 @@
+* {
+  box-sizing: border-box;
+}
+
+.content {
+  height: 300px;
+  width: 500px;
+  border: 10px solid black;
+  padding: 10px;
+  box-sizing: content-box;
+  background-color: #669bbc;
+  /* margin-top: 10px;
+  margin-right: 10px;
+  margin-bottom: 10px;
+  margin-left: 10px; */
+  /* margin: 10px; */
+  margin: 10px auto;
+}
+
+.box {
+  height: 300px;
+  width: 500px;
+  border: 10px solid black;
+  padding: 10px;
+  box-sizing: border-box;
+  background-color: #669bbc;
+}
