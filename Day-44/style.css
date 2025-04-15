@@ -1,0 +1,13 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.container {
+  max-height: 400px;
+  /* min-height: 200px; */
+  width: 400px;
+  background-color: brown;
+  overflow: scroll;
+}
