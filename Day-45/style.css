@@ -1,0 +1,22 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+h1 {
+  /* font-size: 60px; */
+  font-size: 60px;
+}
+
+.container {
+  height: 300px;
+  background-color: aqua;
+}
+
+.card {
+  height: 300px;
+  /* width: 350px; */
+  width: 50%;
+  background-color: blue;
+}

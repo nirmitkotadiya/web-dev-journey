@@ -1,4 +1,4 @@
-# 🚀 Day 43: Max Height 
+# 🚀 Day 44: Max Height 
 
 Learn how to control element height with `max-height` and `min-height` in CSS. These properties are essential for responsive layouts, scrollable containers, and fluid design patterns.
 
