@@ -44,6 +44,19 @@
 | 31 | Inheritance | ✅ Completed | [note.md](./Day-31/note.md) |
 | 32 | Pseudo Elements | ✅ Completed | [note.md](./Day-32/note.md) |
 | 33 | Card Design | ✅ Completed | [note.md](./Day-33/note.md) |
+| 34 | Height and Width | ✅ Completed | [note.md](./Day-34/note.md) |
+| 35 | Padding | ✅ Completed | [note.md](./Day-35/note.md) |
+| 36 | Border | ✅ Completed | [note.md](./Day-36/note.md) |
+| 37 | Border Radius | ✅ Completed | [note.md](./Day-37/note.md) |
+| 38 | Box Sizing in CSS | ✅ Completed | [note.md](./Day-38/note.md) |
+| 39 | CSS Margin | ✅ Completed | [note.md](./Day-39/note.md) |
+| 40 | Display | ✅ Completed | [note.md](./Day-40/note.md) |
+| 41 | CSS Reset | ✅ Completed | [note.md](./Day-41/note.md) |
+| 42 | Margins | ✅ Completed | [note.md](./Day-42/note.md) |
+| 43 | Max Width | ✅ Completed | [note.md](./Day-43/note.md) |
+| 44 | Max Height | ✅ Completed | [note.md](./Day-44/note.md) |
+| 45 | CSS Units + Responsiveness | ✅ Completed | [note.md](./Day-45/note.md) |
+| 46 | Rem | ✅ Completed | [note.md](./Day-46/note.md) |
 
 ---
 
@@ -157,6 +170,59 @@
  ├── ├── 📄 note.md
  ├── ├── 📄 style.css
  ├── 📁 Day-33
+ ├── ├── 📄 index.html
+ ├── ├── 📄 note.md
+ ├── ├── 📄 style.css
+ ├── 📁 Day-34
+ ├── ├── 📄 index.html
+ ├── ├── 📄 note.md
+ ├── ├── 📄 style.css
+ ├── 📁 Day-35
+ ├── ├── 📄 index.html
+ ├── ├── 📄 note.md
+ ├── ├── 📄 style.css
+ ├── 📁 Day-36
+ ├── ├── 📄 index.html
+ ├── ├── 📄 note.md
+ ├── ├── 📄 style.css
+ ├── 📁 Day-37
+ ├── ├── 📄 index.html
+ ├── ├── 📄 note.md
+ ├── ├── 📄 style.css
+ ├── 📁 Day-38
+ ├── ├── 📄 index.html
+ ├── ├── 📄 note.md
+ ├── ├── 📄 style.css
+ ├── 📁 Day-39
+ ├── ├── 📄 index.html
+ ├── ├── 📄 note.md
+ ├── ├── 📄 style.css
+ ├── 📁 Day-40
+ ├── ├── 📄 index.html
+ ├── ├── 📄 note.md
+ ├── ├── 📄 style.css
+ ├── 📁 Day-41
+ ├── ├── 📄 index.html
+ ├── ├── 📄 normalize.html
+ ├── ├── 📄 note.md
+ ├── ├── 📄 style.css
+ ├── 📁 Day-42
+ ├── ├── 📄 index.html
+ ├── ├── 📄 note.md
+ ├── ├── 📄 style.css
+ ├── 📁 Day-43
+ ├── ├── 📄 index.html
+ ├── ├── 📄 note.md
+ ├── ├── 📄 style.css
+ ├── 📁 Day-44
+ ├── ├── 📄 index.html
+ ├── ├── 📄 note.md
+ ├── ├── 📄 style.css
+ ├── 📁 Day-45
+ ├── ├── 📄 index.html
+ ├── ├── 📄 note.md
+ ├── ├── 📄 style.css
+ ├── 📁 Day-46
  ├── ├── 📄 index.html
  ├── ├── 📄 note.md
  ├── ├── 📄 style.css
