@@ -1,0 +1,16 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.btn {
+  font-size: 10px;
+  padding: 0.5em 1em;
+}
+
+.hero {
+  width: 80vw;
+  height: 80vh;
+  background-color: aqua;
+}
