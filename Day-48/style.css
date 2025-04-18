@@ -1,0 +1,28 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+:root {
+  --primary : red;
+  --text-sm : 20px;
+}
+
+.btn {
+  background-color: var(--primary);
+  font-size: var(--text-sm);
+  padding: 20px; 
+}
+
+.btn1 {
+  background-color:var(--primary);
+  font-size: var(--text-sm);
+  padding: 30px; 
+}
+
+.btn2 {
+  background-color: var(--primary);
+  font-size: var(--text-sm);
+  padding: 40px;
+}
