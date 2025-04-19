@@ -1,0 +1,43 @@
+.parent {
+  height: 500px;
+  background-color: aqua;
+  display: flex;
+}
+
+.item-1,
+.item-2,
+.item-3,
+.item-4,
+.item-5 {
+  width: 100px;
+  height: 100px;
+}
+
+.item-1 {
+  background-color: red;
+  display: flex;
+}
+
+.item-2 {
+  background-color: blue;
+}
+
+.item-3 {
+  background-color: green;
+}
+
+.item-4 {
+  background-color: yellow;
+}
+
+.item-5 {
+  background-color: orange;
+}
+
+.one {
+  background-color: antiquewhite;
+}
+
+.two {
+  background-color: aquamarine;
+}
