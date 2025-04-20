@@ -57,6 +57,10 @@
 | 44 | Max Height | ✅ Completed | [note.md](./Day-44/note.md) |
 | 45 | CSS Units + Responsiveness | ✅ Completed | [note.md](./Day-45/note.md) |
 | 46 | Rem | ✅ Completed | [note.md](./Day-46/note.md) |
+| 47 | em, vw, and vh in CSS | ✅ Completed | [note.md](./Day-47/note.md) |
+| 48 | CSS Variables | ✅ Completed | [note.md](./Day-48/note.md) |
+| 49 | Flexbox | ✅ Completed | [note.md](./Day-49/note.md) |
+| 50 | Main and Cross Axis | ✅ Completed | [note.md](./Day-50/note.md) |
 
 ---
 
@@ -223,6 +227,22 @@
  ├── ├── 📄 note.md
  ├── ├── 📄 style.css
  ├── 📁 Day-46
+ ├── ├── 📄 index.html
+ ├── ├── 📄 note.md
+ ├── ├── 📄 style.css
+ ├── 📁 Day-47
+ ├── ├── 📄 index.html
+ ├── ├── 📄 note.md
+ ├── ├── 📄 style.css
+ ├── 📁 Day-48
+ ├── ├── 📄 index.html
+ ├── ├── 📄 note.md
+ ├── ├── 📄 style.css
+ ├── 📁 Day-49
+ ├── ├── 📄 index.html
+ ├── ├── 📄 note.md
+ ├── ├── 📄 style.css
+ ├── 📁 Day-50
  ├── ├── 📄 index.html
  ├── ├── 📄 note.md
  ├── ├── 📄 style.css
