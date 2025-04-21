@@ -1,0 +1,14 @@
+.parent {
+  background-color: aqua;
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+}
+
+.parent div {
+  background-color: red;
+}
+
+a {
+  background-color: yellow;
+}
