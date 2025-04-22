@@ -1,0 +1,22 @@
+.parent {
+  background-color: aqua;
+  display: flex;
+}
+
+.one {
+  height: 100px;
+  width: 100px;
+  background-color: blue;
+}
+
+.two {
+  height: 100px;
+  width: 300px;
+  background-color: red;
+}
+
+.three {
+  height: 100px;
+  width: 50px;
+  background-color: green;
+}
