@@ -1,0 +1,37 @@
+.parent {
+  background-color: aqua;
+  display: flex;
+  gap: 10px;
+}
+
+.one,
+.two,
+.three {
+  width: 100px;
+  height: 100px;
+  background-color: red;
+}
+
+button {
+  background-color: #4CAF50;
+  /* Green background */
+  color: white;
+  /* White text */
+  padding: 10px 20px;
+  /* Some padding */
+  border: none;
+  /* Remove border */
+  border-radius: 5px;
+  /* Rounded corners */
+  cursor: pointer;
+  /* Pointer on hover */
+  font-size: 16px;
+  /* Font size */
+  transition: background-color 0.3s ease;
+  /* Smooth hover effect */
+}
+
+button:hover {
+  background-color: #45a049;
+  /* Slightly darker on hover */
+}
