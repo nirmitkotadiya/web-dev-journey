@@ -1,4 +1,4 @@
-# 🚀 Day 58: JavaScript Day-03 - JavaScript Strings
+# 🚀 Day 59: JavaScript Day-03 - JavaScript Strings
 
 Today we dove into how **strings work in JavaScript**, covering everything from quotes to type coercion and template literals.
 
