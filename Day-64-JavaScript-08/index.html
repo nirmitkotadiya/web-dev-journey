@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Day 64: JavaScript Day-08 - Practice Questions</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<script>
+
+    // Question 1 : Check if a number is even or odd
+    let num = 10;
+    if (num % 2 === 0) {
+        console.log(num + " is even");
+    }
+    else {
+        console.log(num + " is odd");
+    }
+
+    let checkEvenOrOdd = (num % 2 === 0) ? console.log(num + " is even") : console.log(num + " is odd");
+    console.log(checkEvenOrOdd);
+
+    // Question 2 : Check if a user is eligible to vote
+    let age = 20;
+    if (age >= 18) {
+        console.log("You are eligible to vote");
+    }
+    else {
+        console.log("You are not eligible to vote");
+    }
+
+    // Question 3 : Compare two numbers a , b
+    let a = 10;
+    let b = 5;
+    if (a > b) {
+        console.log(a + " is greater than " + b);
+    }
+    else if (a < b) {
+        console.log(a + " is less than " + b);
+    }
+    else {
+        console.log(a + " is equal to " + b);
+    }
+
+    // Question 4 : Check if a character is a vowel 
+    let char = "a";
+    if (char === "a" || char === "e" || char === "i" || char === "o" || char === "u") {
+        console.log(char + " is a vowel");
+    }
+    else {
+        console.log(char + " is not a vowel");
+    }
+
+    // Question 5 : Simple login check
+    let username = "admin";
+    let password = "123456";
+    if (username === "admin" && password === "123456") {
+        console.log("Login successful");
+    }
+    else {
+        console.log("Login failed");
+    }
+
+
+</script>
+
+<body>
+
+</body>
+
+</html>
