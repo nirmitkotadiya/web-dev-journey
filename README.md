@@ -72,6 +72,8 @@
 | 60             | JavaScript Day-04 - Running HTML, CSS, and JS Together | ✅ Completed | [note.md](./Day-60-JavaScript-04/note.md) |
 | 61             | JavaScript Day-05 - JS Variables                       | ✅ Completed | [note.md](./Day-61-JavaScript-05/note.md) |
 | 62             | JavaScript Day-06 - JS Boolean                         | ✅ Completed | [note.md](./Day-62-JavaScript-06/note.md) |
+| 63             | JavaScript Day-07 - Condition                          | ✅ Completed | [note.md](./Day-63-JavaScript-07/note.md) |
+| 64             | JavaScript Day-08 - Practice Questions                 | ✅ Completed | [note.md](./Day-64-JavaScript-08/note.md) |
 
 ---
 
@@ -302,6 +304,14 @@
  ├── ├── 📄 note.md
  ├── ├── 📄 style.css
  ├── 📁 Day-62-JavaScript-06
+ ├── ├── 📄 index.html
+ ├── ├── 📄 note.md
+ ├── ├── 📄 style.css
+ ├── 📁 Day-63-JavaScript-07
+ ├── ├── 📄 index.html
+ ├── ├── 📄 note.md
+ ├── ├── 📄 style.css
+ ├── 📁 Day-64-JavaScript-08
  ├── ├── 📄 index.html
  ├── ├── 📄 note.md
  ├── ├── 📄 style.css
