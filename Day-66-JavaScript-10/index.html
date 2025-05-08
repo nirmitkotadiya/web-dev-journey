@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Day 66: JavaScript Day-10 - JavaScript Functions Params</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<script>
+    // create a function
+    function sum(a) {
+        let b = 10;
+        console.log(a + b);
+    }
+
+    // execute the function
+    sum();  // NaN
+    sum(20); // 30
+
+
+    // create a function
+    function sum1(a, b = 10) {
+        return a + b;
+    }
+
+    // execute the function 
+    console.log(sum1()); // NaN
+    console.log(sum1(30)); // 40
+    console.log(sum1(100, 20)); // 120
+
+
+</script>
+
+<body>
+
+</body>
+
+</html>
