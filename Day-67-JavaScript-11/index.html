@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Day 67: JavaScript Day-11 - JavaScript Objects</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<script>
+    let personName = "Nirmit";
+    let personAge = 25;
+    let profession = "Software Engineer";
+
+    const person = {
+        name: personName,
+        age: personAge,
+        profession: profession
+    };
+    console.log(person);
+
+    console.log(person.name);  // Nirmit
+    console.log(person.age); // 25
+    console.log(person.profession); // Software Engineer
+
+
+    // update person object
+    person.name = "Nirmit Kotadiya";
+    person.age = 26;
+    person.profession = "Full Stack Developer";
+    console.log(person);
+
+    // delete person object
+    delete person.profession;
+    console.log(person);
+
+    // data types
+    console.log(typeof person); // object 
+
+</script>
+
+<body>
+
+</body>
+
+</html>
