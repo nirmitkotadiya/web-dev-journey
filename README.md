@@ -74,6 +74,10 @@
 | 62             | JavaScript Day-06 - JS Boolean                         | ✅ Completed | [note.md](./Day-62-JavaScript-06/note.md) |
 | 63             | JavaScript Day-07 - Condition                          | ✅ Completed | [note.md](./Day-63-JavaScript-07/note.md) |
 | 64             | JavaScript Day-08 - Practice Questions                 | ✅ Completed | [note.md](./Day-64-JavaScript-08/note.md) |
+| 65             | JavaScript Day-09 - JS Functions                       | ✅ Completed | [note.md](./Day-65-JavaScript-09/note.md) |
+| 66             | JavaScript Day-10 - JS Function Parameters             | ✅ Completed | [note.md](./Day-66-JavaScript-10/note.md) |
+| 67             | JavaScript Day-11 - JS Objects                         | ✅ Completed | [note.md](./Day-67-JavaScript-11/note.md) |
+| 68             | JavaScript Day-12 - More About JS Objects              | ✅ Completed | [note.md](./Day-68-JavaScript-12/note.md) |
 
 ---
 
@@ -312,6 +316,22 @@
  ├── ├── 📄 note.md
  ├── ├── 📄 style.css
  ├── 📁 Day-64-JavaScript-08
+ ├── ├── 📄 index.html
+ ├── ├── 📄 note.md
+ ├── ├── 📄 style.css
+ ├── 📁 Day-65-JavaScript-09
+ ├── ├── 📄 index.html
+ ├── ├── 📄 note.md
+ ├── ├── 📄 style.css
+ ├── 📁 Day-66-JavaScript-10
+ ├── ├── 📄 index.html
+ ├── ├── 📄 note.md
+ ├── ├── 📄 style.css
+ ├── 📁 Day-67-JavaScript-11
+ ├── ├── 📄 index.html
+ ├── ├── 📄 note.md
+ ├── ├── 📄 style.css
+ ├── 📁 Day-68-JavaScript-12
  ├── ├── 📄 index.html
  ├── ├── 📄 note.md
  ├── ├── 📄 style.css
