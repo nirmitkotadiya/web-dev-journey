@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Day 68: JavaScript Day-12 - More About JavaScript Objects 💪 </title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<script>
+    let key = "name";
+    let person = {
+        name: "Nirmit",
+        age: 25,
+        profession: "Software Developer",
+        "age-gap": 18,
+        address: {
+            house: "123",
+            street: "abc",
+            city: "xyz"
+        },
+        greet: function test() {
+            console.log(`Hello ${person.name}`);
+        }
+    };
+
+    console.log(person);
+    // console.log(person.age - gap) // invalid
+    console.log(person["age-gap"]); // valid
+
+    console.log(person[key]); // valid
+
+    console.log(person.address);
+
+    console.log(person.greet());
+
+    // built in function
+    console.log(typeof console) // object
+
+    alert(`Hello ${person.name}`);
+
+    let res = Math.sqrt(9);
+    console.log(res); // 3
+
+
+    // create a number guessing game 
+</script>
+
+<body>
+
+</body>
+
+</html>
