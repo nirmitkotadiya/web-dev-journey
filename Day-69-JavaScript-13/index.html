@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Day 69: JavaScript Day-13 - JavaScript LocalStorage</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<script>
+
+    // localStorage 
+    localStorage.setItem("message", "hello world");
+
+    let msg = localStorage.getItem("message");
+    console.log(msg);
+
+
+    let person = {
+        name: "Nirmit",
+    };
+
+    // localStorage.setItem("person", person); // [object Object]
+    localStorage.setItem("person", JSON.stringify(person)); // {"name":"Nirmit"}
+
+
+    let emp = localStorage.getItem("person");
+    console.log(emp);
+    console.log(typeof emp); // string
+    let res = JSON.parse(emp);
+    console.log(res);
+    console.log(typeof res); // object  
+
+    // remove localStorage
+    localStorage.removeItem("message");
+
+</script>
+
+<body>
+    <button onclick="inc()">Click</button>
+</body>
+
+</html>
