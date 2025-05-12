@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Day 70: JavaScript Day-13 - JavaScript Object Part 3</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<script>
+
+    // object 
+    let person = {
+        name: "Nirmit",
+        age: 25,
+    }
+
+    const name = "Nirmit";
+    const age = 27;
+    const age1 = 27;
+
+    console.log(person.name)
+    person.name = "Nirmit Kotadiya";
+    console.log(person.name)
+
+    console.log(name.length)
+
+    console.log(age === age1); // true
+    console.log(age === age1.toString()); // false
+
+    console.log(person);
+
+    console.log("====================================");
+    let a = 10;
+    let b = a;
+    console.log(a, b);
+
+    console.log("====================================");
+
+
+    const per = {
+        name: "Nirmit"
+    };
+    const per1 = per;
+    console.log(per, per1);
+    per.name = "Nirmit Kotadiya";
+
+    console.log(per, per1); // change both per and per1 (object reference)
+
+
+    let person_obj = {
+        name1: "Nirmit",
+        age2: 25,
+        job1: "Frontend Developer",
+    };
+
+    // destructuring
+    let { name1, age2, job1 } = person_obj;
+    console.log(name1, age2, job1);
+
+
+    let num1 = 10;
+    let num2 = 10;
+
+    console.log(num1 === num2); // true
+
+    let person1 = {
+        name: "Nirmit",
+    };
+
+    let person2 = {
+        name: "Nirmit",
+    };
+
+    console.log(person1 === person2); // false
+
+</script>
+
+<body>
+    <button>Click</button>
+</body>
+
+</html>
