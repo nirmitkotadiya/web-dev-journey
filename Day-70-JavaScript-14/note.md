@@ -1,4 +1,4 @@
-# 🚀 Day 70: JavaScript Day-13 - JavaScript Object Part 3
+# 🚀 Day 70: JavaScript Day-14 - JavaScript Object Part 3
 
 Dive deeper into how **JavaScript objects** work, memory reference behavior, destructuring, and value vs reference types.
 
