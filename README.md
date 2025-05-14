@@ -78,6 +78,8 @@
 | 66             | JavaScript Day-10 - JS Function Parameters             | ✅ Completed | [note.md](./Day-66-JavaScript-10/note.md) |
 | 67             | JavaScript Day-11 - JS Objects                         | ✅ Completed | [note.md](./Day-67-JavaScript-11/note.md) |
 | 68             | JavaScript Day-12 - More About JS Objects              | ✅ Completed | [note.md](./Day-68-JavaScript-12/note.md) |
+| 69             | JavaScript Day-13 - JavaScript LocalStorage            | ✅ Completed | [note.md](./Day-69-JavaScript-13/note.md) |
+| 70             | JavaScript Day-14 - JavaScript Object Part 3           | ✅ Completed | [note.md](./Day-70-JavaScript-14/note.md) |
 
 ---
 
@@ -332,6 +334,14 @@
  ├── ├── 📄 note.md
  ├── ├── 📄 style.css
  ├── 📁 Day-68-JavaScript-12
+ ├── ├── 📄 index.html
+ ├── ├── 📄 note.md
+ ├── ├── 📄 style.css
+ ├── 📁 Day-69-JavaScript-13
+ ├── ├── 📄 index.html
+ ├── ├── 📄 note.md
+ ├── ├── 📄 style.css
+ ├── 📁 Day-70-JavaScript-14
  ├── ├── 📄 index.html
  ├── ├── 📄 note.md
  ├── ├── 📄 style.css
