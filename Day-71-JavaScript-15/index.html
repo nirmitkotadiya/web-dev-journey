@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Day 71: JavaScript Day-15 - Instagram Follow Button</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <button onclick="followBtn()">Follow</button>
+    <script>
+        console.log(document.title);
+
+        // let body = document.body.innerHTML = "Hello World";
+        // console.log(body)
+
+        // Instagram Follow Button using JavaScript
+        function followBtn() {
+            let btn = document.querySelector("button");
+            if (btn.innerHTML === "Follow") {
+                btn.innerHTML = "Following";
+            }
+            else {
+                btn.innerHTML = "Follow";
+            }
+
+            // btn.innerHTML = btn.innerHTML === "Follow" ? "Following" : "Follow";
+        }
+
+    </script>
+</body>
+
+</html>
