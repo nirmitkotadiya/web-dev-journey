@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Day 72: JavaScript Day-16 - Login and Register Form</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <div class="form-container">
+        <h2>Sign Up</h2>
+
+        <div class="form-group">
+            <label for="username">Username</label>
+            <input type="text" id="username" name="username" placeholder="Enter your username" autocomplete="off">
+        </div>
+
+        <div class="form-group">
+            <label for="password">Password</label>
+            <input type="password" id="password" name="password" placeholder="Enter your password" autocomplete="off">
+        </div>
+        <button onclick="register()">Sign Up</button>
+    </div>
+
+    <div class="form-container">
+        <h2>Login</h2>
+
+        <div class="form-group">
+            <label for="username">Username</label>
+            <input type="text" id="loginusername" name="username" placeholder="Enter your username" autocomplete="off">
+        </div>
+
+        <div class="form-group">
+            <label for="password">Password</label>
+            <input type="password" id="loginpassword" name="password" placeholder="Enter your password"
+                autocomplete="off">
+        </div>
+        <button onclick="login()">Login</button>
+    </div>
+
+    <script>
+        // register
+        function register() {
+            let username = document.getElementById("username").value;
+            let password = document.getElementById("password").value;
+
+            if (username !== "" && password !== "") {
+                let data = {
+                    username: username,
+                    password: password
+                };
+                localStorage.setItem("user", JSON.stringify(data));
+                alert("Registered successfully");
+            } else {
+                alert("Please fill in all fields");
+            }
+        }
+
+        // login 
+        function login() {
+            let username = document.getElementById("loginusername").value;
+            let password = document.getElementById("loginpassword").value;
+
+            if (username !== "" && password !== "") {
+                let user = JSON.parse(localStorage.getItem("user"));
+                if (user.username === username && user.password === password) {
+                    alert("Logged in successfully");
+                } else {
+                    alert("Invalid username or password");
+                }
+            } else {
+                alert("Please fill in all fields");
+            }
+        }
+
+    </script>
+</body>
+
+</html>
