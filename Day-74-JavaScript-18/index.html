@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>JavaScript Day-18 - JavaScript Array</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <script>
+        // 
+        // How to create an array
+        let arr = [100, 200, 300, 400];
+
+        console.log(arr);
+        console.log(arr.length);
+        console.log(arr[0]);
+        console.log(arr[arr.length - 1]);
+
+        // How to change value in array 
+        arr[0] = "Nirmit";
+        console.log(arr);
+
+        let arr2 = ["Nirmit", 200, {
+            name: "Nirmit",
+            age: 25,
+            city: "Bangalore"
+        }, 400];
+        console.log(arr2[2].name); // Nirmit
+        console.log(arr2[2].city); // Bangalore
+
+        // 
+        let arr3 = [1, 2, 3, 4, 5];
+        console.log(typeof arr3); // object
+        console.log(Array.isArray(arr3)); // true
+    </script>
+</body>
+
+</html>
