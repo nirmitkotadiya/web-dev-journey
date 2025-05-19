@@ -27,10 +27,6 @@ function addItem() {
 
 ---
 
-> _"Keep learning and keep building—practice makes progress!"_ 💪
-
----
-
 ### 💡 **Pro Tip**
 
 > _"Keep learning and keep building—practice makes progress!"_ 💪
