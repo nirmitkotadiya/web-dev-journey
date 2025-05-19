@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>JavaScript Day-19 - JavaScript Todo List</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+    <div class="todo-container">
+        <input type="text" class="todo-input" placeholder="Add a new task..." />
+        <button class="add-button" onclick="addItem()">Add</button>
+    </div>
+
+    <script>
+        // methods 
+        let arr = [100, 200, 300, 400, 500];
+        // push - to add element in array
+        arr.push(600);
+        console.log(arr);  // [100, 200, 300, 400, 500, 600]
+
+        // pop - to remove element from array
+        arr.pop();
+        console.log(arr); // [100, 200, 300, 400, 500]
+
+        // splice - to remove element from array
+        arr.splice(2, 1);
+        console.log(arr); // [100, 200, 400, 500]
+
+        // Todo List 
+        // Create a list
+        // click on add button
+        // get value from input
+        // add that value in list 
+        // console.log  
+        let list = [];
+
+        function addItem() {
+            let input = document.querySelector(".todo-input");
+            value = input.value;
+            list.push(value);
+            input.value = "";
+            console.log(list)
+        }
+
+    </script>
+</body>
+
+
+</html>
