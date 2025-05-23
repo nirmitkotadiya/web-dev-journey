@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>JavaScript Day-23 - JavaScript Array Practice Time 💪</title>
+</head>
+
+<body>
+    <script>
+        //  Sum of all Numbers  
+        let numbers = [1, 2, 3];
+        let sum = 0;
+        for (let i = 0; i < numbers.length; i++) {
+            sum = sum + numbers[i];
+        }
+        console.log("sum = " + sum);
+
+
+        //  Find Maximum Number
+        let max = numbers[0];
+        for (let i = 1; i < numbers.length; i++) {
+            if (numbers[i] > max) {
+                max = numbers[i];
+            }
+        }
+        console.log("max = " + max);
+
+    </script>
+</body>
+
+
+</html>
