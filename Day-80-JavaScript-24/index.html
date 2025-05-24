@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>JavaScript Day-24 - JavaScript Completing Todo List</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+    <div class="todo-container">
+        <h2>To-Do List</h2>
+        <input type="text" class="todo-input" placeholder="Add a new task..." />
+        <button class="add-button" onclick="addItem()">Add</button>
+        <ul id="taskList">
+        </ul>
+    </div>
+
+    <script>
+
+        // Todo List  
+        let list = [];
+
+        function addItem() {
+            let input = document.querySelector(".todo-input");
+            value = input.value;
+            list.push(value);
+            input.value = "";
+
+            if (value.trim() === "") {
+                alert("Please enter a task to add!");
+                return;
+            }
+
+            const taskList = document.querySelector("#taskList");
+            taskList.innerHTML += `<li>${value}</li>`;
+
+        }
+
+    </script>
+</body>
+
+
+
+</html>
