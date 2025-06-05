@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>JavaScript Day-25 - JavaScript Todo List Delete Button</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+    <div class="todo-container">
+        <h2>To-Do List</h2>
+        <input type="text" class="todo-input" placeholder="Add a new task..." />
+        <br>
+        <input type="text" class="todo-input" id="taskP" placeholder="Enter Priority..." />
+        <button class="add-button" onclick="addItem()">Add</button>
+        <ul id="taskList">
+        </ul>
+    </div>
+
+    <script>
+
+        // Todo List
+        // Task
+        // Delete Button  
+        // Multiple Input Form
+        let list = [];
+
+        function addItem() {
+            let input = document.querySelector(".todo-input");
+            value = input.value.trim();
+            let taskP = document.querySelector("#taskP");
+            let priority = taskP.value.trim();
+
+            list.push({
+                title: value,
+                priority: priority
+            });
+            input.value = "";
+            taskP.value = "";
+
+
+
+            // if (value.trim() === "") {
+            //     alert("Please enter a task to add!");
+            //     return;
+            // };
+            console.log(list)
+
+            renderList();
+        }
+
+        function renderList() {
+            let listStr = "";
+            for (let i = 0; i < list.length; i++) {
+                listStr += `<li>${list[i].title} - ${list[i].priority}
+            <button class="delete-btn" onclick="deleteItem(${i})">Delete</button></li>`;
+            }
+            let taskList = document.querySelector("#taskList");
+            taskList.innerHTML = listStr;
+        }
+
+        function deleteItem(index) {
+            list.splice(index, 1);
+            console.log(list);
+            renderList();
+        }
+
+    </script>
+</body>
+
+</html>
