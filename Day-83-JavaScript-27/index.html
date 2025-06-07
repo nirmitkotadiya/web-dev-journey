@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>JavaScript Day-27 - JavaScript Callback Functions</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+
+<body>
+  <script>
+    // advanced functions
+
+    // Anonymous Function
+    let greet = function () {
+      console.log("hello");
+    }
+    greet();
+
+    // Callback Function
+    function test(param) {
+      param();
+    }
+
+    console.log(typeof test); // function
+
+    test(function () {
+      console.log("hello User!");
+    })
+
+    // Callback Function
+    function test(param) {
+      param("User");
+    }
+
+    test(function (name) {
+      console.log("hello " + name);
+    })
+
+  </script>
+</body>
+
+</html>
