@@ -8,78 +8,91 @@
 
 ## 📋 **Course Outline**
 
-| 📌 Lecture No. | 📝 Topic                                               | 🚦 Status    | 🔗 Link                                   |
-| -------------- | ------------------------------------------------------ | ------------ | ----------------------------------------- |
-| 01             | Introduction to Website Development                    | ✅ Completed | [note.md](./Day-01/note.md)               |
-| 02             | How the Web Works                                      | ✅ Completed | [note.md](./Day-02/note.md)               |
-| 03             | Setting Up Your Development Environment                | ✅ Completed | [note.md](./Day-03/note.md)               |
-| 04             | Understanding HTML, CSS, and JavaScript                | ✅ Completed | [note.md](./Day-04/note.md)               |
-| 05             | First Web Page                                         | ✅ Completed | [note.md](./Day-05/note.md)               |
-| 06             | HTML Structures                                        | ✅ Completed | [note.md](./Day-06/note.md)               |
-| 07             | HTML Text                                              | ✅ Completed | [note.md](./Day-07/note.md)               |
-| 08             | HTML List                                              | ✅ Completed | [note.md](./Day-08/note.md)               |
-| 09             | Hyperlinks                                             | ✅ Completed | [note.md](./Day-09/note.md)               |
-| 10             | ID Attributes                                          | ✅ Completed | [note.md](./Day-10/note.md)               |
-| 11             | Self Closing Tags                                      | ✅ Completed | [note.md](./Day-11/note.md)               |
-| 12             | Image Tag                                              | ✅ Completed | [note.md](./Day-12/note.md)               |
-| 13             | HTML Forms                                             | ✅ Completed | [note.md](./Day-13/note.md)               |
-| 14             | Form Validation                                        | ✅ Completed | [note.md](./Day-14/note.md)               |
-| 15             | HTML Drop-down                                         | ✅ Completed | [note.md](./Day-15/note.md)               |
-| 16             | Login and Register Form                                | ✅ Completed | [note.md](./Day-16/note.md)               |
-| 17             | Introduction to CSS                                    | ✅ Completed | [note.md](./Day-17/note.md)               |
-| 18             | Block & Inline Elements                                | ✅ Completed | [note.md](./Day-18/note.md)               |
-| 19             | Development or Developer or Dev Tools                  | ✅ Completed | [note.md](./Day-19/note.md)               |
-| 20             | Layout Design                                          | ✅ Completed | [note.md](./Day-20/note.md)               |
-| 21             | Ways to Add CSS                                        | ✅ Completed | [note.md](./Day-21/note.md)               |
-| 22             | Semantic HTML                                          | ✅ Completed | [note.md](./Day-22/note.md)               |
-| 23             | HTML Tables                                            | ✅ Completed | [note.md](./Day-23/note.md)               |
-| 24             | Text Styling                                           | ✅ Completed | [note.md](./Day-24/note.md)               |
-| 25             | Text Alignment / Positioning                           | ✅ Completed | [note.md](./Day-25/note.md)               |
-| 26             | Text Size                                              | ✅ Completed | [note.md](./Day-26/note.md)               |
-| 27             | Font Family                                            | ✅ Completed | [note.md](./Day-27/note.md)               |
-| 28             | Text Color                                             | ✅ Completed | [note.md](./Day-28/note.md)               |
-| 29             | CSS Selectors                                          | ✅ Completed | [note.md](./Day-29/note.md)               |
-| 30             | Pseudo Selectors                                       | ✅ Completed | [note.md](./Day-30/note.md)               |
-| 31             | Inheritance                                            | ✅ Completed | [note.md](./Day-31/note.md)               |
-| 32             | Pseudo Elements                                        | ✅ Completed | [note.md](./Day-32/note.md)               |
-| 33             | Card Design                                            | ✅ Completed | [note.md](./Day-33/note.md)               |
-| 34             | Height and Width                                       | ✅ Completed | [note.md](./Day-34/note.md)               |
-| 35             | Padding                                                | ✅ Completed | [note.md](./Day-35/note.md)               |
-| 36             | Border                                                 | ✅ Completed | [note.md](./Day-36/note.md)               |
-| 37             | Border Radius                                          | ✅ Completed | [note.md](./Day-37/note.md)               |
-| 38             | Box Sizing in CSS                                      | ✅ Completed | [note.md](./Day-38/note.md)               |
-| 39             | CSS Margin                                             | ✅ Completed | [note.md](./Day-39/note.md)               |
-| 40             | Display                                                | ✅ Completed | [note.md](./Day-40/note.md)               |
-| 41             | CSS Reset                                              | ✅ Completed | [note.md](./Day-41/note.md)               |
-| 42             | Margins                                                | ✅ Completed | [note.md](./Day-42/note.md)               |
-| 43             | Max Width                                              | ✅ Completed | [note.md](./Day-43/note.md)               |
-| 44             | Max Height                                             | ✅ Completed | [note.md](./Day-44/note.md)               |
-| 45             | CSS Units + Responsiveness                             | ✅ Completed | [note.md](./Day-45/note.md)               |
-| 46             | Rem                                                    | ✅ Completed | [note.md](./Day-46/note.md)               |
-| 47             | em, vw, and vh in CSS                                  | ✅ Completed | [note.md](./Day-47/note.md)               |
-| 48             | CSS Variables                                          | ✅ Completed | [note.md](./Day-48/note.md)               |
-| 49             | Flexbox                                                | ✅ Completed | [note.md](./Day-49/note.md)               |
-| 50             | Main and Cross Axis                                    | ✅ Completed | [note.md](./Day-50/note.md)               |
-| 51             | Flex vs Block vs Inline-Block                          | ✅ Completed | [note.md](./Day-51/note.md)               |
-| 52             | Justify Content                                        | ✅ Completed | [note.md](./Day-52/note.md)               |
-| 53             | Align Items                                            | ✅ Completed | [note.md](./Day-53/note.md)               |
-| 54             | Gap in Flexbox                                         | ✅ Completed | [note.md](./Day-54/note.md)               |
-| 55             | Position                                               | ✅ Completed | [note.md](./Day-55/note.md)               |
-| 56             | YouTube Layout - Navbar Design                         | ✅ Completed | [note.md](./Day-56/note.md)               |
-| 57             | JavaScript Day-01 - Project Setup                      | ✅ Completed | [note.md](./Day-57-JavaScript-01/note.md) |
-| 58             | JavaScript Day-02 - JavaScript Numbers                 | ✅ Completed | [note.md](./Day-58-JavaScript-02/note.md) |
-| 59             | JavaScript Day-03 - JavaScript Strings                 | ✅ Completed | [note.md](./Day-59-JavaScript-03/note.md) |
-| 60             | JavaScript Day-04 - Running HTML, CSS, and JS Together | ✅ Completed | [note.md](./Day-60-JavaScript-04/note.md) |
-| 61             | JavaScript Day-05 - JS Variables                       | ✅ Completed | [note.md](./Day-61-JavaScript-05/note.md) |
-| 62             | JavaScript Day-06 - JS Boolean                         | ✅ Completed | [note.md](./Day-62-JavaScript-06/note.md) |
-| 63             | JavaScript Day-07 - Condition                          | ✅ Completed | [note.md](./Day-63-JavaScript-07/note.md) |
-| 64             | JavaScript Day-08 - Practice Questions                 | ✅ Completed | [note.md](./Day-64-JavaScript-08/note.md) |
-| 65             | JavaScript Day-09 - JS Functions                       | ✅ Completed | [note.md](./Day-65-JavaScript-09/note.md) |
-| 66             | JavaScript Day-10 - JS Function Parameters             | ✅ Completed | [note.md](./Day-66-JavaScript-10/note.md) |
-| 67             | JavaScript Day-11 - JS Objects                         | ✅ Completed | [note.md](./Day-67-JavaScript-11/note.md) |
-| 68             | JavaScript Day-12 - More About JS Objects              | ✅ Completed | [note.md](./Day-68-JavaScript-12/note.md) |
-| 69             | JavaScript Day-13 - JavaScript LocalStorage            | ✅ Completed | [note.md](./Day-69-JavaScript-13/note.md) |
-| 70             | JavaScript Day-14 - JavaScript Object Part 3           | ✅ Completed | [note.md](./Day-70-JavaScript-14/note.md) |
+| 📌 Lecture No. | 📝 Topic                                                          | 🚦 Status    | 🔗 Link                                   |
+| -------------- | ----------------------------------------------------------------- | ------------ | ----------------------------------------- |
+| 01             | Introduction to Website Development                               | ✅ Completed | [note.md](./Day-01/note.md)               |
+| 02             | How the Web Works                                                 | ✅ Completed | [note.md](./Day-02/note.md)               |
+| 03             | Setting Up Your Development Environment                           | ✅ Completed | [note.md](./Day-03/note.md)               |
+| 04             | Understanding HTML, CSS, and JavaScript                           | ✅ Completed | [note.md](./Day-04/note.md)               |
+| 05             | First Web Page                                                    | ✅ Completed | [note.md](./Day-05/note.md)               |
+| 06             | HTML Structures                                                   | ✅ Completed | [note.md](./Day-06/note.md)               |
+| 07             | HTML Text                                                         | ✅ Completed | [note.md](./Day-07/note.md)               |
+| 08             | HTML List                                                         | ✅ Completed | [note.md](./Day-08/note.md)               |
+| 09             | Hyperlinks                                                        | ✅ Completed | [note.md](./Day-09/note.md)               |
+| 10             | ID Attributes                                                     | ✅ Completed | [note.md](./Day-10/note.md)               |
+| 11             | Self Closing Tags                                                 | ✅ Completed | [note.md](./Day-11/note.md)               |
+| 12             | Image Tag                                                         | ✅ Completed | [note.md](./Day-12/note.md)               |
+| 13             | HTML Forms                                                        | ✅ Completed | [note.md](./Day-13/note.md)               |
+| 14             | Form Validation                                                   | ✅ Completed | [note.md](./Day-14/note.md)               |
+| 15             | HTML Drop-down                                                    | ✅ Completed | [note.md](./Day-15/note.md)               |
+| 16             | Login and Register Form                                           | ✅ Completed | [note.md](./Day-16/note.md)               |
+| 17             | Introduction to CSS                                               | ✅ Completed | [note.md](./Day-17/note.md)               |
+| 18             | Block & Inline Elements                                           | ✅ Completed | [note.md](./Day-18/note.md)               |
+| 19             | Development or Developer or Dev Tools                             | ✅ Completed | [note.md](./Day-19/note.md)               |
+| 20             | Layout Design                                                     | ✅ Completed | [note.md](./Day-20/note.md)               |
+| 21             | Ways to Add CSS                                                   | ✅ Completed | [note.md](./Day-21/note.md)               |
+| 22             | Semantic HTML                                                     | ✅ Completed | [note.md](./Day-22/note.md)               |
+| 23             | HTML Tables                                                       | ✅ Completed | [note.md](./Day-23/note.md)               |
+| 24             | Text Styling                                                      | ✅ Completed | [note.md](./Day-24/note.md)               |
+| 25             | Text Alignment / Positioning                                      | ✅ Completed | [note.md](./Day-25/note.md)               |
+| 26             | Text Size                                                         | ✅ Completed | [note.md](./Day-26/note.md)               |
+| 27             | Font Family                                                       | ✅ Completed | [note.md](./Day-27/note.md)               |
+| 28             | Text Color                                                        | ✅ Completed | [note.md](./Day-28/note.md)               |
+| 29             | CSS Selectors                                                     | ✅ Completed | [note.md](./Day-29/note.md)               |
+| 30             | Pseudo Selectors                                                  | ✅ Completed | [note.md](./Day-30/note.md)               |
+| 31             | Inheritance                                                       | ✅ Completed | [note.md](./Day-31/note.md)               |
+| 32             | Pseudo Elements                                                   | ✅ Completed | [note.md](./Day-32/note.md)               |
+| 33             | Card Design                                                       | ✅ Completed | [note.md](./Day-33/note.md)               |
+| 34             | Height and Width                                                  | ✅ Completed | [note.md](./Day-34/note.md)               |
+| 35             | Padding                                                           | ✅ Completed | [note.md](./Day-35/note.md)               |
+| 36             | Border                                                            | ✅ Completed | [note.md](./Day-36/note.md)               |
+| 37             | Border Radius                                                     | ✅ Completed | [note.md](./Day-37/note.md)               |
+| 38             | Box Sizing in CSS                                                 | ✅ Completed | [note.md](./Day-38/note.md)               |
+| 39             | CSS Margin                                                        | ✅ Completed | [note.md](./Day-39/note.md)               |
+| 40             | Display                                                           | ✅ Completed | [note.md](./Day-40/note.md)               |
+| 41             | CSS Reset                                                         | ✅ Completed | [note.md](./Day-41/note.md)               |
+| 42             | Margins                                                           | ✅ Completed | [note.md](./Day-42/note.md)               |
+| 43             | Max Width                                                         | ✅ Completed | [note.md](./Day-43/note.md)               |
+| 44             | Max Height                                                        | ✅ Completed | [note.md](./Day-44/note.md)               |
+| 45             | CSS Units + Responsiveness                                        | ✅ Completed | [note.md](./Day-45/note.md)               |
+| 46             | Rem                                                               | ✅ Completed | [note.md](./Day-46/note.md)               |
+| 47             | em, vw, and vh in CSS                                             | ✅ Completed | [note.md](./Day-47/note.md)               |
+| 48             | CSS Variables                                                     | ✅ Completed | [note.md](./Day-48/note.md)               |
+| 49             | Flexbox                                                           | ✅ Completed | [note.md](./Day-49/note.md)               |
+| 50             | Main and Cross Axis                                               | ✅ Completed | [note.md](./Day-50/note.md)               |
+| 51             | Flex vs Block vs Inline-Block                                     | ✅ Completed | [note.md](./Day-51/note.md)               |
+| 52             | Justify Content                                                   | ✅ Completed | [note.md](./Day-52/note.md)               |
+| 53             | Align Items                                                       | ✅ Completed | [note.md](./Day-53/note.md)               |
+| 54             | Gap in Flexbox                                                    | ✅ Completed | [note.md](./Day-54/note.md)               |
+| 55             | Position                                                          | ✅ Completed | [note.md](./Day-55/note.md)               |
+| 56             | YouTube Layout - Navbar Design                                    | ✅ Completed | [note.md](./Day-56/note.md)               |
+| 57             | JavaScript Day-01 - Project Setup                                 | ✅ Completed | [note.md](./Day-57-JavaScript-01/note.md) |
+| 58             | JavaScript Day-02 - JavaScript Numbers                            | ✅ Completed | [note.md](./Day-58-JavaScript-02/note.md) |
+| 59             | JavaScript Day-03 - JavaScript Strings                            | ✅ Completed | [note.md](./Day-59-JavaScript-03/note.md) |
+| 60             | JavaScript Day-04 - Running HTML, CSS, and JS Together            | ✅ Completed | [note.md](./Day-60-JavaScript-04/note.md) |
+| 61             | JavaScript Day-05 - JS Variables                                  | ✅ Completed | [note.md](./Day-61-JavaScript-05/note.md) |
+| 62             | JavaScript Day-06 - JS Boolean                                    | ✅ Completed | [note.md](./Day-62-JavaScript-06/note.md) |
+| 63             | JavaScript Day-07 - Condition                                     | ✅ Completed | [note.md](./Day-63-JavaScript-07/note.md) |
+| 64             | JavaScript Day-08 - Practice Questions                            | ✅ Completed | [note.md](./Day-64-JavaScript-08/note.md) |
+| 65             | JavaScript Day-09 - JS Functions                                  | ✅ Completed | [note.md](./Day-65-JavaScript-09/note.md) |
+| 66             | JavaScript Day-10 - JS Function Parameters                        | ✅ Completed | [note.md](./Day-66-JavaScript-10/note.md) |
+| 67             | JavaScript Day-11 - JS Objects                                    | ✅ Completed | [note.md](./Day-67-JavaScript-11/note.md) |
+| 68             | JavaScript Day-12 - More About JS Objects                         | ✅ Completed | [note.md](./Day-68-JavaScript-12/note.md) |
+| 69             | JavaScript Day-13 - JavaScript LocalStorage                       | ✅ Completed | [note.md](./Day-69-JavaScript-13/note.md) |
+| 70             | JavaScript Day-14 - JavaScript Object Part 3                      | ✅ Completed | [note.md](./Day-70-JavaScript-14/note.md) |
+| 71             | JavaScript Day-15 - Instagram Follow Button                       | ✅ Completed | [note.md](./Day-71-JavaScript-15/note.md) |
+| 72             | JavaScript Day-16 - Login and Register Form                       | ✅ Completed | [note.md](./Day-72-JavaScript-16/note.md) |
+| 73             | JavaScript Day-17 - JavaScript Window Object                      | ✅ Completed | [note.md](./Day-73-JavaScript-17/note.md) |
+| 74             | JavaScript Day-18 - JavaScript Array                              | ✅ Completed | [note.md](./Day-74-JavaScript-18/note.md) |
+| 75             | JavaScript Day-19 - JavaScript Todo List                          | ✅ Completed | [note.md](./Day-75-JavaScript-19/note.md) |
+| 76             | JavaScript Day-20 - JavaScript While Loop                         | ✅ Completed | [note.md](./Day-76-JavaScript-20/note.md) |
+| 77             | JavaScript Day-21 - JavaScript For Loop                           | ✅ Completed | [note.md](./Day-77-JavaScript-21/note.md) |
+| 78             | JavaScript Day-22 - JavaScript Traverse Through Array Using Loops | ✅ Completed | [note.md](./Day-78-JavaScript-22/note.md) |
+| 79             | JavaScript Day-23 - JavaScript Array Practice Time 💪             | ✅ Completed | [note.md](./Day-79-JavaScript-23/note.md) |
+| 80             | JavaScript Day-24 - JavaScript Completing Todo List ✅            | ✅ Completed | [note.md](./Day-80-JavaScript-24/note.md) |
+| 81             | JavaScript Day-25 - To-Do List with Delete Button                 | ✅ Completed | [note.md](./Day-81-JavaScript-25/note.md) |
+| 82             | JavaScript Day-26 - JavaScript Scope & Hoisting 👨‍💻                | ✅ Completed | [note.md](./Day-82-JavaScript-26/note.md) |
+| 83             | JavaScript Day-27 - JavaScript Callback Functions                 | ✅ Completed | [note.md](./Day-83-JavaScript-27/note.md) |
 
 ---
 
@@ -342,6 +355,54 @@
  ├── ├── 📄 note.md
  ├── ├── 📄 style.css
  ├── 📁 Day-70-JavaScript-14
+ ├── ├── 📄 index.html
+ ├── ├── 📄 note.md
+ ├── ├── 📄 style.css
+ ├── 📁 Day-71-JavaScript-15
+ ├── ├── 📄 index.html
+ ├── ├── 📄 note.md
+ ├── ├── 📄 style.css
+ ├── 📁 Day-72-JavaScript-16
+ ├── ├── 📄 index.html
+ ├── ├── 📄 note.md
+ ├── ├── 📄 style.css
+ ├── 📁 Day-73-JavaScript-17
+ ├── ├── 📄 index.html
+ ├── ├── 📄 note.md
+ ├── ├── 📄 style.css
+ ├── 📁 Day-74-JavaScript-18
+ ├── ├── 📄 index.html
+ ├── ├── 📄 note.md
+ ├── ├── 📄 style.css
+ ├── 📁 Day-75-JavaScript-19
+ ├── ├── 📄 index.html
+ ├── ├── 📄 note.md
+ ├── ├── 📄 style.css
+ ├── 📁 Day-76-JavaScript-20
+ ├── ├── 📄 index.html
+ ├── ├── 📄 note.md
+ ├── 📁 Day-77-JavaScript-21
+ ├── ├── 📄 index.html
+ ├── ├── 📄 note.md
+ ├── 📁 Day-78-JavaScript-22
+ ├── ├── 📄 index.html
+ ├── ├── 📄 note.md
+ ├── 📁 Day-79-JavaScript-23
+ ├── ├── 📄 index.html
+ ├── ├── 📄 note.md
+ ├── 📁 Day-80-JavaScript-24
+ ├── ├── 📄 index.html
+ ├── ├── 📄 note.md
+ ├── ├── 📄 style.css
+ ├── 📁 Day-81-JavaScript-25
+ ├── ├── 📄 index.html
+ ├── ├── 📄 note.md
+ ├── ├── 📄 style.css
+ ├── 📁 Day-82-JavaScript-26
+ ├── ├── 📄 index.html
+ ├── ├── 📄 note.md
+ ├── ├── 📄 style.css
+ ├── 📁 Day-83-JavaScript-27
  ├── ├── 📄 index.html
  ├── ├── 📄 note.md
  ├── ├── 📄 style.css
