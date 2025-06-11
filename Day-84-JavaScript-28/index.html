@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>JavaScript Day-28 - Arrow Functions & Async Timers</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+
+  <body>
+    <script>
+      // Callback Functions
+
+      // Asynchronous Code
+
+      // set Timeout
+      setTimeout(() => {
+        console.log("Hello Timer!")
+      }, 3000);
+      console.log("This is normal code");
+
+        // set Interval
+        setInterval(() => {
+          console.log("Hello Interval!");
+        },3000);
+
+        //  best example
+        setTimeout(() => {
+          console.log("Hello Timer 2!");
+        },0);
+        console.log("This is normal code 2");
+
+        // o/p : This is normal code 2 Hello Timer 2!
+    </script>
+  </body>
+</html>
