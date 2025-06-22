@@ -93,10 +93,18 @@
 | 81             | JavaScript Day-25 - To-Do List with Delete Button                 | ✅ Completed | [note.md](./Day-81-JavaScript-25/note.md) |
 | 82             | JavaScript Day-26 - JavaScript Scope & Hoisting 👨‍💻                | ✅ Completed | [note.md](./Day-82-JavaScript-26/note.md) |
 | 83             | JavaScript Day-27 - JavaScript Callback Functions                 | ✅ Completed | [note.md](./Day-83-JavaScript-27/note.md) |
+| 84             | JavaScript Day-28 - Arrow Functions & Async Timers 👨‍💻             | ✅ Completed | [note.md](./Day-84-JavaScript-28/note.md) |
+| 85             | JavaScript Day-29 – clearInterval, break, continue, forEach 💪    | ✅ Completed | [note.md](./Day-85-JavaScript-29/note.md) |
+| 86             | JavaScript Day- 30 - JavaScript Arrow Functions 💪                | ✅ Completed | [note.md](./Day-86-JavaScript-30/note.md) |
+| 87             | JavaScript Day-31 - Git 💪                                        | ✅ Completed | [note.md](./Day-87-JavaScript-31/note.md) |
+| 88             | JavaScript Day-32 - Git vs GitHub                                 | ✅ Completed | [note.md](./Day-88-JavaScript-32/note.md) |
+| 89             | JavaScript Day-33 - JavaScript Modules 💪                         | ✅ Completed | [note.md](./Day-89-JavaScript-33/note.md) |
+| 90             | JavaScript Day-34 - JavaScript `this` keyword 💪                  | ✅ Completed | [note.md](./Day-90-JavaScript-34/note.md) |
+| 91             | JavaScript Day-35 - JavaScript Classes 💪                         | ✅ Completed | [note.md](./Day-91-JavaScript-35/note.md) |
 
 ---
 
-## 📂 Folder Structure
+<!-- ## 📂 Folder Structure
 
 ```
 📦 web-dev-journey
@@ -410,7 +418,7 @@
  ├── 📄 README.md (You're here!)
 ```
 
----
+--- -->
 
 ## ✨ What's Included?
 
