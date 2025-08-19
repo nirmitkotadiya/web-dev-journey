@@ -1,5 +1,12 @@
 # 🌟 Web Dev Journey 🚀
 
+---
+
+> ⚠️ **Note:** This repository is **currently on hold**.  
+> I’ll resume updating notes, code, and lectures soon. Stay tuned! 🚧
+
+---
+
 📌 **Documenting my web development journey** – from the basics to advanced concepts, covering HTML, CSS, JavaScript, React, and beyond! Whether you're a beginner or looking to refine your skills, this repository serves as a structured guide for learning and hands-on practice. 🏗️
 
 > "The journey of a thousand miles begins with a single step." – Lao Tzu
